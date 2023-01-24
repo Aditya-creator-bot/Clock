@@ -12,7 +12,7 @@
 
 # Build Status
 
-### This is a console clock, which I created using simple code of c. The program uses the header files that are **'stdio.h'** for standaed input/output and **'windows.h'** for using function like - **exit()** and **system()**. It takes current time from user and then increases the `sec` variable in `1000ms` and shows the output changing in every `1000ms`.
+### This is a console clock, which I created using simple code of c. The program uses the header files that are **'stdio.h'** for standard input/output and **'windows.h'** for using function like - **exit()** and **system()**. It takes current time from user and then increases the `sec` variable in `1000ms` and shows the output changing in every `1000ms`.
 
 # Output Looks Like
 
