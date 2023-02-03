@@ -6,6 +6,7 @@ This is console clock, which takes the current time from user and then change th
 ![GitHub contributors](https://img.shields.io/github/contributors/Aditya-creator-bot/clock?color=brightgreen&label=Contributors)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/Aditya-creator-bot/Clock?color=brightgreen&label=Issues)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/Aditya-creator-bot/Clock?color=brightgreen&label=pull%20request)
+![GitHub commit merge status](https://img.shields.io/github/commit-status/Aditya-creator-bot/Clock/master/5e3bcf7ee7e6020389c9cbc18aef878e2417db50)
 ---
 
 # Motivation
